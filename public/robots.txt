@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sidejob-pc-diagnosis-v4.vercel.app/sitemap.xml
